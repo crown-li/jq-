@@ -4,7 +4,9 @@ jq轮播图
 ## 使用
 
 1.引用jq
+
 2.引入carousel.js和index.html里面的css样式并按照里面的html结构进行布局
+
 3.实例化：
 
 ```
